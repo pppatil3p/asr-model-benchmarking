@@ -1,0 +1,2 @@
+filename: cv-valid-test/sample-000009.mp3
+text: it was glaringly hot not a cloud in the sky nor a breath of wind

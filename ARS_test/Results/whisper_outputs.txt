@@ -1,0 +1,100 @@
+File: sample-000001.mp3
+Prediction: I've got to go to him.
+Inference Time: 3.671 sec
+------------------------------------------------------------
+File: sample-000003.mp3
+Prediction: توقف Bryan منال كربية من حفاءينss فقمين في كيد
+Inference Time: 19.324 sec
+------------------------------------------------------------
+File: sample-000005.mp3
+Prediction: Down below in the darkness were hundreds of people sleeping in peace.
+Inference Time: 2.968 sec
+------------------------------------------------------------
+File: sample-000007.mp3
+Prediction: The sheep had taught him that.
+Inference Time: 2.718 sec
+------------------------------------------------------------
+File: sample-000009.mp3
+Prediction: It was glaringly hot, not a cloud in the sky, nor a breath of wind.
+Inference Time: 3.109 sec
+------------------------------------------------------------
+File: sample-000011.mp3
+Prediction: They made the boy continue digging, but he found nothing.
+Inference Time: 2.906 sec
+------------------------------------------------------------
+File: sample-000012.mp3
+Prediction: One can imagine these two covered with sand running up the little street in the bright sunlight.
+Inference Time: 3.188 sec
+------------------------------------------------------------
+File: sample-000014.mp3
+Prediction: Follow the instructions here.
+Inference Time: 2.671 sec
+------------------------------------------------------------
+File: sample-000016.mp3
+Prediction: The shop is closed on Mondays.
+Inference Time: 2.687 sec
+------------------------------------------------------------
+File: sample-000018.mp3
+Prediction: I'm going away he said.
+Inference Time: 2.656 sec
+------------------------------------------------------------
+File: sample-000020.mp3
+Prediction: I'm going into the desert, the man answered turning back to his reading.
+Inference Time: 3.031 sec
+------------------------------------------------------------
+File: sample-000021.mp3
+Prediction: He wasn't asking for help.
+Inference Time: 2.687 sec
+------------------------------------------------------------
+File: sample-000022.mp3
+Prediction: Some of the gray ash was falling off the circular edge.
+Inference Time: 2.937 sec
+------------------------------------------------------------
+File: sample-000034.mp3
+Prediction: The one you are blocking.
+Inference Time: 2.781 sec
+------------------------------------------------------------
+File: sample-000035.mp3
+Prediction: Henderson stood up with a spade in his hand.
+Inference Time: 2.781 sec
+------------------------------------------------------------
+File: sample-000036.mp3
+Prediction: You didn't need to seek out the old woman for this.
+Inference Time: 2.89 sec
+------------------------------------------------------------
+File: sample-000037.mp3
+Prediction: Only a minority of literature is written this way.
+Inference Time: 2.812 sec
+------------------------------------------------------------
+File: sample-000038.mp3
+Prediction: I wish you wouldn't.
+Inference Time: 2.765 sec
+------------------------------------------------------------
+File: sample-000039.mp3
+Prediction: Nature knows me as the wisest being in creation, the sun said.
+Inference Time: 2.968 sec
+------------------------------------------------------------
+File: sample-000040.mp3
+Prediction: There's only one way to learn the Alchemist dancing.
+Inference Time: 2.952 sec
+------------------------------------------------------------
+File: sample-000041.mp3
+Prediction: Don't do it for me.
+Inference Time: 2.718 sec
+------------------------------------------------------------
+File: sample-000042.mp3
+Prediction: I'm not working for any other paper.
+Inference Time: 2.671 sec
+------------------------------------------------------------
+File: sample-000043.mp3
+Prediction: That's not so bad.
+Inference Time: 2.827 sec
+------------------------------------------------------------
+File: sample-000044.mp3
+Prediction: I have the diet of a kid who found twenty dollars.
+Inference Time: 2.952 sec
+------------------------------------------------------------
+File: sample-000045.mp3
+Prediction: I have the money I need to buy my sheep.
+Inference Time: 2.874 sec
+------------------------------------------------------------

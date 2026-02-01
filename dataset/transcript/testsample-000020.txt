@@ -1,0 +1,2 @@
+filename: cv-valid-test/sample-000020.mp3	
+text: i'm going into the desert the man answered turning back to his reading

@@ -1,0 +1,2 @@
+filename: cv-valid-test/sample-000012.mp3
+text: one can imagine these two covered with sand running up the little street in the bright sunlight

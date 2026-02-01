@@ -1,0 +1,2 @@
+filename: cv-valid-test/sample-000001.mp3
+text: i've got to go to him

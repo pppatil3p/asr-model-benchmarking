@@ -1,0 +1,2 @@
+filename: cv-valid-test/sample-000016.mp3
+text: the shop is closed on mondays

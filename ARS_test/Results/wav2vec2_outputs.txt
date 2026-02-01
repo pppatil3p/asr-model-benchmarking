@@ -1,0 +1,100 @@
+File: sample-000001.mp3
+Prediction: IVE GAT GO TO HIM
+Inference Time: 2.212 sec
+------------------------------------------------------------
+File: sample-000003.mp3
+Prediction: DOWN BELOW IN THE DARKNESS WERE HUNDREDS OF PEOPLE SLEEPING IN PEACE
+Inference Time: 2.049 sec
+------------------------------------------------------------
+File: sample-000005.mp3
+Prediction: DOWN BELOW IN THE DARKNESS WERE HUNDREDS OF PEOPLE SLEEPING IN PEACE
+Inference Time: 1.158 sec
+------------------------------------------------------------
+File: sample-000007.mp3
+Prediction: THE SHEEP HAD TOLD HIM THAT
+Inference Time: 0.657 sec
+------------------------------------------------------------
+File: sample-000009.mp3
+Prediction: IT WAS GLARINGLY HOT NOT A CLOUD IN THE SKY NOR A BREATH OF WIND
+Inference Time: 1.064 sec
+------------------------------------------------------------
+File: sample-000011.mp3
+Prediction: THEY MADE A BOY CONTINUED DIGGING BUT HE FOUND NOTHING
+Inference Time: 1.079 sec
+------------------------------------------------------------
+File: sample-000012.mp3
+Prediction: ONE CAN IMAGINE THESE TWO COVERED WITH SAND RUNNING UP THE LITTLE STREET IN THE BRIGHT SUNLIGHT
+Inference Time: 1.502 sec
+------------------------------------------------------------
+File: sample-000014.mp3
+Prediction: FOLLW THE INSTRUCTIONS HERE
+Inference Time: 0.588 sec
+------------------------------------------------------------
+File: sample-000016.mp3
+Prediction: THE SHOP IS CLOSED ON MONNEY'S
+Inference Time: 0.727 sec
+------------------------------------------------------------
+File: sample-000018.mp3
+Prediction: I'M GOING TO LER HE SAID
+Inference Time: 0.673 sec
+------------------------------------------------------------
+File: sample-000020.mp3
+Prediction: I AM GOING INTO THE DESERT THE MAN ANSWERED TURNING BACK TO HIS READING
+Inference Time: 1.064 sec
+------------------------------------------------------------
+File: sample-000021.mp3
+Prediction: HE WASN'T ASKING FOR HELP
+Inference Time: 0.665 sec
+------------------------------------------------------------
+File: sample-000022.mp3
+Prediction: SOME OF THE GRAY ASH WAS FALLING OFF THE CIRCULAR EDGE
+Inference Time: 3.239 sec
+------------------------------------------------------------
+File: sample-000034.mp3
+Prediction: THE ONE YOU'RE BLOCKING
+Inference Time: 1.486 sec
+------------------------------------------------------------
+File: sample-000035.mp3
+Prediction: HENDERSEN STOOD UP WITH A SPADE IN HIS HAND
+Inference Time: 1.001 sec
+------------------------------------------------------------
+File: sample-000036.mp3
+Prediction: YOU DIDN'T NEED TO SEEK OUT THE OLD WOMAN FOR THIS
+Inference Time: 0.986 sec
+------------------------------------------------------------
+File: sample-000037.mp3
+Prediction: ONLY A MINORITY OF LITERATURE IS WRITTEN THIS WAY
+Inference Time: 1.001 sec
+------------------------------------------------------------
+File: sample-000038.mp3
+Prediction: I WISH YOU WOULDN'T
+Inference Time: 0.548 sec
+------------------------------------------------------------
+File: sample-000039.mp3
+Prediction: NATURE KNOWS ME IS THE WISEST BEING IN CREATION THE SUN SAID
+Inference Time: 1.643 sec
+------------------------------------------------------------
+File: sample-000040.mp3
+Prediction: THEREIS ONLY ONE WAY TO LEARN THE ALCHYMIST ANSWER
+Inference Time: 1.158 sec
+------------------------------------------------------------
+File: sample-000041.mp3
+Prediction: DON'T DO IT FOR ME
+Inference Time: 0.501 sec
+------------------------------------------------------------
+File: sample-000042.mp3
+Prediction: I'M NOT WORKING FOR ANY OTHER PAPER
+Inference Time: 0.547 sec
+------------------------------------------------------------
+File: sample-000043.mp3
+Prediction: THAT'S NOT SO BAD
+Inference Time: 0.469 sec
+------------------------------------------------------------
+File: sample-000044.mp3
+Prediction: I HAVE THE DIET OF A KID WHO FOUND TWENTY DOLLARS
+Inference Time: 1.213 sec
+------------------------------------------------------------
+File: sample-000045.mp3
+Prediction: I HAVE THE MONEY I NEED TO BUY MY SHEEP
+Inference Time: 1.005 sec
+------------------------------------------------------------

@@ -1,0 +1,2 @@
+filename: cv-valid-test/sample-000022.mp3	
+text: some of the grey ash was falling off the circular edge

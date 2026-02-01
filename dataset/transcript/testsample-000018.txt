@@ -1,0 +1,2 @@
+filename: cv-valid-test/sample-000018.mp3
+text: i'm going away he said

@@ -1,0 +1,2 @@
+filename: cv-valid-test/sample-000014.mp3
+text: follow the instructions here

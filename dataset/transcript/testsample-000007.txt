@@ -1,0 +1,2 @@
+filename: cv-valid-test/sample-000007.mp3
+text: the sheep had taught him that

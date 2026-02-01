@@ -1,0 +1,2 @@
+filename: cv-valid-test/sample-000005.mp3
+text: down below in the darkness were hundreds of people sleeping in peace

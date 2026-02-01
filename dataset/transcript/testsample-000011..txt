@@ -1,0 +1,2 @@
+filenmae:cv-valid-test/sample-000011.mp3
+text: they made the boy continue digging but he found nothing

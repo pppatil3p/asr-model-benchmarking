@@ -1,0 +1,3 @@
+Whisper Average WER: 0.314 (evaluated on 24 files, skipped 1)
+Faster-Whisper Average WER: 0.306 (evaluated on 24 files, skipped 1)
+Wav2Vec2 Average WER: 0.19 (evaluated on 24 files, skipped 1)

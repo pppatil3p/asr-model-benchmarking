@@ -1,0 +1,2 @@
+filename: cv-valid-test/sample-000021.mp3	
+text: he wasn't asking for help
